@@ -1,7 +1,6 @@
 - 👋 Hi, I’m a PhD at TU Munich in the field of Alpine Ecology
 - 👀 I’m interested in Remote Sensing applications in Environmental Sciences
 - 💞️ I mainly with with Python and R, sometimes with JavaScript
-- 🌱 Currently learning a handful of programming languages (C anc C++, soon also TensorFlow)
 - 🐮 I really like cows
 
 - 📪 Reach me at barbara.araujo@tum.de!
